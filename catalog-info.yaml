@@ -5,8 +5,8 @@ metadata:
   description: "A Jenkins test pipeline that generates dummy logs."
   annotations:
     #jenkins.io/job-full-name: "singularity:Shared Examples"
-    #jenkins.io/job-full-name: "jenkins-3:Singularity/Ansible-Playbook-over-SSH-tunnel-Azure"
-    jenkins.io/job-full-name: "jenkins-3:Singularity/Backstage/POC_Backstage"
+    jenkins.io/job-full-name: "jenkins-3:Singularity/Ansible-Playbook-over-SSH-tunnel-Azure"
+    #jenkins.io/job-full-name: "jenkins-3:Singularity/Backstage/POC_Backstage"
     #jenkins.io/job-full-name: "test-pipeline"
 spec:
   type: service
