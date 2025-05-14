@@ -6,8 +6,9 @@ metadata:
   annotations:
     #jenkins.io/job-full-name: "singularity:Shared Examples"
     #jenkins.io/job-full-name: "jenkins-3:Singularity/Ansible-Playbook-over-SSH-tunnel-Azure"
-    jenkins.io/job-full-name: "jenkins-3:Singularity/Backstage/POC_Backstage"
+    #jenkins.io/job-full-name: "jenkins-3:Singularity/Backstage/POC_Backstage"
     #jenkins.io/job-full-name: "test-pipeline"
+    sonarqube.org/project-key: niteshgr_Final_year_project
 spec:
   type: service
   lifecycle: experimental
